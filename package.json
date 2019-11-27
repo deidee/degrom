@@ -1,0 +1,27 @@
+{
+  "name": "@deidee/degrom",
+  "version": "0.0.1",
+  "description": "Standard Grunt setup for clients and projects of @deidee.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deidee/degrom.git"
+  },
+  "keywords": [
+    "scss"
+  ],
+  "author": "ACJ",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/deidee/degrom/issues"
+  },
+  "homepage": "https://github.com/deidee/degrom#readme",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-sass": "^3.1.0"
+  }
+}
